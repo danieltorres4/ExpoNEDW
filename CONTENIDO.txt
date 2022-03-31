@@ -13,4 +13,12 @@ Infographics:
     -Git and GitHub: the file is located inside the repo
 
     -Git LFS: https://www.canva.com/design/DAE8aDUbo6I/j9zHShVwg8q-RC9fjI1NcQ/view?utm_content=DAE8aDUbo6I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-    
+
+Other resources that may be useful:
+    -Git and GitHub | Practical Course from Scratch
+        https://www.youtube.com/watch?v=HiXLkL42tMU
+
+Platforms where you can find courses:
+    -Udemy
+    -Platzi
+    -Coursera
